@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    { "source": "/helsinki", "destination": "https://www.kuntalaisaloite.fi/fi/aloite/44561", "permanent": false },
+    { "source": "/espoo", "destination": "https://www.kuntalaisaloite.fi/fi/aloite/44842", "permanent": false },
+    { "source": "/vantaa", "destination": "https://www.kuntalaisaloite.fi/fi/aloite/44845", "permanent": false }
+  ]
+}
