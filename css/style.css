@@ -355,6 +355,8 @@ h1 {
   font-size: 24px;
   font-family: "Varela Round", sans-serif;
   margin-bottom: 48px;
+  margin-left: 24px;
+  margin-right: 24px;
 
   @media (min-width: 768px) {
     margin-bottom: 96px;
